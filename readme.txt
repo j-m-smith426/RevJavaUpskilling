@@ -1,6 +1,6 @@
 1-4 Hands on 
-- Triangle
-- Circle
-- Rectangle
-- TempConverter
-- MeasurementConverter
+  - Triangle
+  - Circle
+  - Rectangle
+  - TempConverter
+  - MeasurementConverter
