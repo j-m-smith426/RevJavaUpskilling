@@ -8,3 +8,4 @@
 	- BiggestOf3
 	- WhileDemo_LoanROI
 	- DisplayRange
+	- calc package
