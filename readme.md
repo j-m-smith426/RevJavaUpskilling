@@ -11,3 +11,9 @@
 	- calc package
 	- Post Class
 		- Rectangle
+##1-6
+	- Inheritance package
+		- Employee
+		- Worker
+		- Supervisor
+		- Manager
