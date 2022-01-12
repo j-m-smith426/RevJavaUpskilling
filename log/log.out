@@ -1,0 +1,11 @@
+2022-01-12 14:53:40 DEBUG ProcessStudent:17 - ProcessStudent - process() has started
+2022-01-12 14:53:40 DEBUG ProcessStudent:19 - Trying to open input.dat file
+2022-01-12 14:53:40 DEBUG ProcessStudent:21 - Trying to open output.dat file
+2022-01-12 14:53:40 INFO  ProcessStudent:29 - Looping through all records existing in the input file
+2022-01-12 14:53:40 DEBUG ProcessStudent:33 - 0 position student id is 101
+2022-01-12 14:53:40 DEBUG ProcessStudent:46 - Saved 101 into output file
+2022-01-12 14:53:40 DEBUG ProcessStudent:33 - 1 position student id is 102
+2022-01-12 14:53:40 DEBUG ProcessStudent:46 - Saved 102 into output file
+2022-01-12 14:53:40 DEBUG ProcessStudent:33 - 2 position student id is 103
+2022-01-12 14:53:40 DEBUG ProcessStudent:46 - Saved 103 into output file
+2022-01-12 14:53:40 INFO  ProcessStudent:54 - Student processing has completed

@@ -1,8 +1,6 @@
 package com.revature.handson.CollectionDemo;
 
-import java.util.ArrayList;
 import java.util.Iterator;
-import java.util.LinkedList;
 import java.util.TreeSet;
 
 public class TreeSetDemo {
